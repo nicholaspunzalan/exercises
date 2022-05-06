@@ -1,5 +1,5 @@
 def sentence(name, activity)
-  "#{name} #{activity}"
+  "#{name} went #{activity} today."
 end
 
 def name(name_arr)
